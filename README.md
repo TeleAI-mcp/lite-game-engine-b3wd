@@ -1,2 +1,3 @@
-# lite-game-engine-b3wd
-A game engine project for modern development workflows
+# Lite Game Engine B3Wd
+
+A game engine project for modern development workflows.
